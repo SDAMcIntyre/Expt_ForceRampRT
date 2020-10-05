@@ -1,8 +1,4 @@
 import serial
-import os
-import sys
-import time
-import serial
 import serial.tools.list_ports
 # working with bytes https://www.devdungeon.com/content/working-binary-data-python 
 # https://stackoverflow.com/questions/53214304/python-pyserial-auto-detect-com-ports
